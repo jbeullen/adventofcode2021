@@ -1,0 +1,18 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# IDE
+.idea/
+
+# Gradle
+.gradle/
+
+# Build
+build/
+out/
+
+# OSX
+.DS_Store
