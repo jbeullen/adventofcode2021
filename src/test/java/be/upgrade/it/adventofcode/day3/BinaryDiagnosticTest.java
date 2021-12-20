@@ -15,7 +15,7 @@ class BinaryDiagnosticTest {
 
     @Test
     void given_actualInput_when_calculatePowerConsumption_then_198() {
-        assertThat(BinaryDiagnostic.calculatePowerConsumption("day3/input1.txt")).isEqualTo(198L);
+        assertThat(BinaryDiagnostic.calculatePowerConsumption("day3/input1.txt")).isEqualTo(845186L);
 
     }
 }
